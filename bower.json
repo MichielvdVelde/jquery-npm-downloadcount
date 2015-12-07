@@ -1,0 +1,27 @@
+{
+  "name": "jquery-npm-downloadcount",
+  "main": "jquery-npm-downloadcount.js",
+  "authors": [
+    "Michiel van der Velde <michiel@michielvdvelde.nl>"
+  ],
+  "description": "jQuery plugin that shows an npm package's download count",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery",
+    "plugin",
+    "npm",
+    "download",
+    "count"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/MichielvdVelde/jquery-npm-downloadcount",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
